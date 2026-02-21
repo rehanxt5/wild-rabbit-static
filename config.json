@@ -1,0 +1,113 @@
+{
+  "businessName": "Wild Rabbit Cafe and Bakehouse",
+  "tagline": "A Cozy Escape for Coffee & Artisanal Bakes",
+  "type": "Cafe & Bakehouse",
+  "location": {
+    "city": "Bangalore",
+    "address": "5th Floor, Sno 270, Kno 256, Beml Layout, Kundalahalli, Bengaluru, Karnataka 560066",
+    "googleMapsLink": "https://maps.app.goo.gl/bZZQLfoSr5g5GU1M9",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.067372251944!2d77.7166540751167!3d12.967527987347494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae13d4b6807e3d%3A0xc3a9e3a6c0c2e36!2sBeml%20Layout%2C%20Kundalahalli%2C%20Brookefield%2C%20Bengaluru%2C%20Karnataka%20560066!5e0!3m2!1sen!2sin!4v1709667812345!5m2!1sen!2sin"
+  },
+  "contact": {
+    "phone": "+91 73383 72421",
+    "whatsapp": "+917338372421",
+    "email": "hello@wildrabbitcafe.com",
+    "social": {
+      "instagram": "#",
+      "facebook": "#",
+      "twitter": "#"
+    }
+  },
+  "openingHours": [
+    { "day": "Monday - Friday", "time": "8:00 AM - 10:00 PM" },
+    { "day": "Saturday - Sunday", "time": "9:00 AM - 11:00 PM" }
+  ],
+  "colors": {
+    "primary": "#c2904b",
+    "secondary": "#441415",
+    "accent": "#fdf8f3",
+    "text": "#2c2c2c"
+  },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=1920&auto=format&fit=crop",
+    "about": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?q=80&w=1200&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=800&auto=format&fit=crop"
+    ]
+  },
+  "menu": [
+    {
+      "id": 1,
+      "name": "Avocado & Poached Egg Tartine",
+      "description": "Sourdough toast topped with smashed avocado, feta cheese, chili flakes, and a perfectly poached egg.",
+      "price": "₹340",
+      "category": "All Day Breakfast",
+      "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Classic Almond Croissant",
+      "description": "Buttery, flaky croissant filled with rich almond cream and topped with toasted almonds.",
+      "price": "₹220",
+      "category": "Bakery",
+      "image": "https://images.unsplash.com/photo-1555507036-ab1f40388085?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "New York Style Cheesecake",
+      "description": "Creamy, dense cheesecake with a graham cracker crust, served with a berry compote.",
+      "price": "₹280",
+      "category": "Desserts",
+      "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Truffle Mushroom Pasta",
+      "description": "Fettuccine tossed in a creamy truffle sauce with roasted wild mushrooms and parmesan.",
+      "price": "₹450",
+      "category": "Mains",
+      "image": "https://images.unsplash.com/photo-1626844131082-256783844137?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": 5,
+      "name": "Signature Hazelnut Latte",
+      "description": "Espresso with steamed milk and house-made roasted hazelnut syrup.",
+      "price": "₹210",
+      "category": "Coffee",
+      "image": "https://images.unsplash.com/photo-1541167760479-ddbdcead69c4?q=80&w=800&auto=format&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "Berry Basil Smoothie",
+      "description": "A refreshing blend of mixed berries, fresh basil, yogurt, and honey.",
+      "price": "₹240",
+      "category": "Beverages",
+      "image": "https://images.unsplash.com/photo-1544787219-6f47d46b25f4?q=80&w=800&auto=format&fit=crop"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Ananya R.",
+      "text": "The ambiance is absolutely stunning! Perfect place for a quiet work session or a coffee date. The almond croissant is a must-try.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Rahul K.",
+      "text": "Best cheesecake in Kundalahalli. The staff is super friendly and the coffee is top-notch. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Meera S.",
+      "text": "A hidden gem! Love the cozy decor and the extensive menu. The truffle pasta was delicious.",
+      "rating": 4
+    }
+  ]
+}

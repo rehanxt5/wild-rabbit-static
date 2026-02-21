@@ -1,0 +1,59 @@
+# Wild Rabbit Cafe and Bakehouse — Image Sources
+# All images sourced from Unsplash (unsplash.com) — free for commercial use.
+# Search keywords used to find each image are listed below.
+
+## HERO BACKGROUND
+URL: https://images.unsplash.com/photo-1554118811-1e0d58224f24
+Search terms: "cozy cafe interior", "aesthetic coffee shop"
+
+## ABOUT / INTERIOR
+URL: https://images.unsplash.com/photo-1559925393-8be0ec4767c8
+Search terms: "cafe interior warm lighting", "premium coffee shop ambiance"
+
+## GALLERY
+1. https://images.unsplash.com/photo-1497935586351-b67a49e012bf
+   Search: "latte art coffee cup close up"
+
+2. https://images.unsplash.com/photo-1509042239860-f550ce710b93
+   Search: "coffee beans roasted espresso"
+
+3. https://images.unsplash.com/photo-1517433670267-08bbd4be890f
+   Search: "bakery shelf pastries display"
+
+4. https://images.unsplash.com/photo-1559339352-11d035aa65de
+   Search: "friends cafe table coffee social"
+
+5. https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd
+   Search: "coffee glass aesthetic overhead"
+
+6. https://images.unsplash.com/photo-1495474472287-4d71bcdd2085
+   Search: "cafe table top morning coffee"
+
+## MENU ITEMS
+1. Avocado & Poached Egg Tartine
+   URL: https://images.unsplash.com/photo-1588166524941-3bf61a9c41db
+   Search: "avocado toast poached egg sourdough"
+
+2. Classic Almond Croissant
+   URL: https://images.unsplash.com/photo-1555507036-ab1f40388085
+   Search: "almond croissant flaky pastry close up"
+
+3. New York Style Cheesecake
+   URL: https://images.unsplash.com/photo-1533134242443-d4fd215305ad
+   Search: "new york cheesecake berry slice"
+
+4. Truffle Mushroom Pasta
+   URL: https://images.unsplash.com/photo-1626844131082-256783844137
+   Search: "creamy truffle pasta mushroom fettuccine"
+
+5. Signature Hazelnut Latte
+   URL: https://images.unsplash.com/photo-1541167760479-ddbdcead69c4
+   Search: "hazelnut latte coffee cup overhead"
+
+6. Berry Basil Smoothie
+   URL: https://images.unsplash.com/photo-1544787219-6f47d46b25f4
+   Search: "berry smoothie purple glass fresh"
+
+---
+NOTE: To replace any image, visit unsplash.com, search using the keywords above,
+copy the photo URL and update index.html + config.json accordingly.

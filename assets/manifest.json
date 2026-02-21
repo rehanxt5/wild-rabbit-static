@@ -1,0 +1,21 @@
+{
+  "name": "Wild Rabbit Cafe and Bakehouse",
+  "short_name": "Wild Rabbit",
+  "description": "A cozy, aesthetic, and premium cafe and bakehouse in Kundalahalli, Bangalore.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf8f3",
+  "theme_color": "#c2904b",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=192&h=192&fit=crop&auto=format",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=512&h=512&fit=crop&auto=format",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
